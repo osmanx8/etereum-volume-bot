@@ -1,14 +1,21 @@
-# Volume bot on EVM chains
+# 🔄 Volume Trading Bot for EVM Chains
+A fully customizable volume simulator bot built for EVM-compatible blockchains like BSC and Ethereum. It creates randomized trading activity to simulate organic trading volume using multiple wallets.
+## 🌐 Supported Chains
+✅ Binance Smart Chain (BSC)
 
-## Supported chains
-BSC, Ethereum mainnet, (Any EVM chain)
+✅ Ethereum Mainnet
 
-## Technology
+✅ Any EVM-Compatible Chain (Polygon, Arbitrum, Avalanche, etc.)
 
-Languange: Typescript, Solidity
-Type: Bot Script
+##💻 Tech Stack
 
-## How to use the bot?
+🟦 Languages: TypeScript, Solidity
+
+🤖 Bot Type: Scripted Automation
+
+⚙️ Environment: Node.js, Hardhat
+
+##⚙️ How to Use the Bot
 
 - You should install node modules by
 ```
@@ -75,16 +82,17 @@ npm run dev
 ```
 
 
-## Features
-- Generating random wallets
-- Funding wallets that will trade as real traders
-- Random trade with funded wallets
-- Gathering funds after work
+## 🚧 Upcoming Features
+⏳ Dynamic trading intervals (per wallet)
 
-## Example
+🎯 Smart trading amounts based on wallet balance
+
+💱 Pool randomization for increased realism
+
+🪙 Automated fund consolidation from sub-wallets
 
 
-https://github.com/user-attachments/assets/ac6e55f6-7ece-4cad-8dc7-883423c32f4e
+
 
 ## Tx links
 https://bscscan.com/tx/0x581cda788080b52fbd5db8c4d3500c22a6c136a07b73e2311d1fc29330d48fe5
@@ -97,6 +105,6 @@ https://bscscan.com/tx/0xb46d289c48d04dc6cc74849ecd9ef4fff6bf86aa3b16fc231d019b8
 - Randomizing the pool
 
 ## How to contact
-Telegram: [@midaBricoll](https://t.me/midaBricoll)
+Telegram: [@ShadowRusii](https://t.me/shadowRusii)
 
-Twitter: [@dieharye](https://x.com/dieharye)
+Twitter: [@WEB#_MAXI](https://x.com/web_maxi)
